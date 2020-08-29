@@ -1,0 +1,16 @@
+.center-1-image{
+    text-align: center;
+}
+.center{
+text-align: center;
+width: 250px;
+border-radius:250px;
+}
+.nom{
+
+text-align: center;
+font-weight: bold;
+}
+.description{
+    text-align: center;
+}
